@@ -1,3 +1,11 @@
+####################################################################
+
+# ======== This file implements moodle using docker compose ========
+
+# Authors: Ahmad Aji Santoso
+# Email: ahmad21@student.ub.ac.id
+####################################################################
+
 version: "3.7"
 
 services:
